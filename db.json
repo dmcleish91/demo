@@ -32,7 +32,7 @@
       "alterEgo": "Princess Diana"
     }
   ],
-  "users" = [
+  "users": [
   {
     "userid": 'ian@spectrumware.net',
     "admin": 'true',
