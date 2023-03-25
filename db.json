@@ -34,7 +34,7 @@
   ],
   "users": [
   {
-    "userid": "ian@spectrumware.net",
+    "id": "ian@spectrumware.net",
     "admin": true,
     "first": "Ian",
     "last": "Thomas",
@@ -43,7 +43,7 @@
     "inactive": true
   },
   {
-    "userid": "elliot@spectrumware.net",
+    "id": "elliot@spectrumware.net",
     "admin": true,
     "first": "Elliot",
     "last": "Ives",
@@ -52,7 +52,7 @@
     "inactive": false
   },
   {
-    "userid": "jeff@spectrumware.net",
+    "id": "jeff@spectrumware.net",
     "admin": true,
     "first": "Jeff",
     "last": "Carlson",
