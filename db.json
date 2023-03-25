@@ -35,30 +35,30 @@
   "users": [
   {
     "userid": "ian@spectrumware.net",
-    "admin": "true",
+    "admin": true,
     "first": "Ian",
     "last": "Thomas",
     "title": "Developer",
     "phone": "229-999-9999",
-    "inactive": true,
+    "inactive": true
   },
   {
     "userid": "elliot@spectrumware.net",
-    "admin": "true",
+    "admin": true,
     "first": "Elliot",
     "last": "Ives",
     "title": "Developer",
     "phone": "229-999-9999",
-    "inactive": false,
+    "inactive": false
   },
   {
     "userid": "jeff@spectrumware.net",
-    "admin": "true",
+    "admin": true,
     "first": "Jeff",
     "last": "Carlson",
     "title": "Developer",
     "phone": "229-999-9999",
-    "inactive": false,
-  },
-]
+    "inactive": false
+  }
+  ]
 }
