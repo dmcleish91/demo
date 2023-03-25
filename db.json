@@ -35,7 +35,7 @@
   "users": [
   {
     "id": "ian@spectrumware.net",
-    "admin": true,
+    "admin": "true",
     "first": "Ian",
     "last": "Thomas",
     "title": "Developer",
@@ -44,7 +44,7 @@
   },
   {
     "id": "elliot@spectrumware.net",
-    "admin": true,
+    "admin": "false",
     "first": "Elliot",
     "last": "Ives",
     "title": "Developer",
@@ -53,7 +53,7 @@
   },
   {
     "id": "jeff@spectrumware.net",
-    "admin": true,
+    "admin": "true",
     "first": "Jeff",
     "last": "Carlson",
     "title": "Developer",
