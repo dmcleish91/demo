@@ -33,131 +33,131 @@
     }
   ],
   "users": [
-  {
-    "id": "ian@spectrumware.net",
-    "admin": "true",
-    "first": "Ian",
-    "last": "Thomas",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": true
-  },
-  {
-    "id": "elliot@spectrumware.net",
-    "admin": "false",
-    "first": "Elliot",
-    "last": "Ives",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "jeff@spectrumware.net",
-    "admin": "true",
-    "first": "Jeff",
-    "last": "Carlson",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
     {
-    "id": "jane@spectrumware.net",
-    "admin": "false",
-    "first": "Jane",
-    "last": "Doe",
-    "title": "Designer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "john@spectrumware.net",
-    "admin": "true",
-    "first": "John",
-    "last": "Smith",
-    "title": "Manager",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "jenny@spectrumware.net",
-    "admin": "false",
-    "first": "Jenny",
-    "last": "Johnson",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": true
-  },
-  {
-    "id": "chris@spectrumware.net",
-    "admin": "true",
-    "first": "Chris",
-    "last": "Lee",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "lisa@spectrumware.net",
-    "admin": "false",
-    "first": "Lisa",
-    "last": "Brown",
-    "title": "Designer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "david@spectrumware.net",
-    "admin": "true",
-    "first": "David",
-    "last": "Chen",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "emily@spectrumware.net",
-    "admin": "false",
-    "first": "Emily",
-    "last": "Wang",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": true
-  },
-  {
-    "id": "alex@spectrumware.net",
-    "admin": "false",
-    "first": "Alex",
-    "last": "Nguyen",
-    "title": "Designer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "maria@spectrumware.net",
-    "admin": "true",
-    "first": "Maria",
-    "last": "Garcia",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "james@spectrumware.net",
-    "admin": "false",
-    "first": "James",
-    "last": "Taylor",
-    "title": "Designer",
-    "phone": "229-999-9999",
-    "inactive": false
-  },
-  {
-    "id": "jessica@spectrumware.net",
-    "admin": "true",
-    "first": "Jessica",
-    "last": "Kim",
-    "title": "Developer",
-    "phone": "229-999-9999",
-    "inactive": true
-  },
+      "id": "ian@spectrumware.net",
+      "admin": "true",
+      "first": "Ian",
+      "last": "Thomas",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": true
+    },
+    {
+      "id": "elliot@spectrumware.net",
+      "admin": "false",
+      "first": "Elliot",
+      "last": "Ives",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "jeff@spectrumware.net",
+      "admin": "true",
+      "first": "Jeff",
+      "last": "Carlson",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "jane@spectrumware.net",
+      "admin": "false",
+      "first": "Jane",
+      "last": "Doe",
+      "title": "Designer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "john@spectrumware.net",
+      "admin": "true",
+      "first": "John",
+      "last": "Smith",
+      "title": "Manager",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "jenny@spectrumware.net",
+      "admin": "false",
+      "first": "Jenny",
+      "last": "Johnson",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": true
+    },
+    {
+      "id": "chris@spectrumware.net",
+      "admin": "true",
+      "first": "Chris",
+      "last": "Lee",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "lisa@spectrumware.net",
+      "admin": "false",
+      "first": "Lisa",
+      "last": "Brown",
+      "title": "Designer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "david@spectrumware.net",
+      "admin": "true",
+      "first": "David",
+      "last": "Chen",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "emily@spectrumware.net",
+      "admin": "false",
+      "first": "Emily",
+      "last": "Wang",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": true
+    },
+    {
+      "id": "alex@spectrumware.net",
+      "admin": "false",
+      "first": "Alex",
+      "last": "Nguyen",
+      "title": "Designer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "maria@spectrumware.net",
+      "admin": "true",
+      "first": "Maria",
+      "last": "Garcia",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "james@spectrumware.net",
+      "admin": "false",
+      "first": "James",
+      "last": "Taylor",
+      "title": "Designer",
+      "phone": "229-999-9999",
+      "inactive": false
+    },
+    {
+      "id": "jessica@spectrumware.net",
+      "admin": "true",
+      "first": "Jessica",
+      "last": "Kim",
+      "title": "Developer",
+      "phone": "229-999-9999",
+      "inactive": true
+    }
   ]
 }
